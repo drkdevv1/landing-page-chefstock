@@ -12,14 +12,6 @@
       <img src="../assets/jose.png" alt="Jose">
       <h2>José Daniel Mario Calderón Huamán</h2>
     </div>
-    <div class="member">
-      <img src="./path-to-image4.jpg" alt="Miembro 4">
-      <h2>Nombre Completo 4</h2>
-    </div>
-    <div class="member">
-      <img src="./path-to-image5.jpg" alt="Miembro 5">
-      <h2>Nombre Completo 5</h2>
-    </div>
   </div>
 </template>
 
